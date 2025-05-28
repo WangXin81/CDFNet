@@ -23,7 +23,8 @@ test
 ![image](/figs/fig1.jpg)
 # Datasets
 You can download the SECOND dataset from:
-- [Google Drive](https://drive.google.com/file/d/1QlAdzrHpfBIOZ6SK78yHF2i1u6tikmBc/view?usp=sharing)
+[Google Drive](https://drive.google.com/file/d/1QlAdzrHpfBIOZ6SK78yHF2i1u6tikmBc/view?usp=sharing)
+
 You can download the JL1-CD dataset from:
 - [Google Drive](https://drive.google.com/drive/folders/1ELoqx7J3GrEFMX5_rRynMjW9-Poxz3Uu?usp=sharing)
 - [Baidu Disk](https://pan.baidu.com/s/1_vcO4c5DM5LDuOqLwLrWJg?pwd=5byn)
