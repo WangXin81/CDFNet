@@ -20,10 +20,13 @@ test
         
          
 # FIGS
-![b43adf96a11bd5a06e6fbe5891a6b350](https://github.com/user-attachments/assets/9c461525-65c8-4e6a-9c27-ba7ae5bb86b0)
+![image](/figs/fig1.jpg)
 # Datasets
 SECOND:https://drive.google.com/file/d/1QlAdzrHpfBIOZ6SK78yHF2i1u6tikmBc/view?usp=sharing  
-JL1：https://pan.baidu.com/s/1R0OZz3y2kIWCRoU_H1bQMg
+The JL1-CD dataset is now publicly available. You can download the dataset from:
+- [Google Drive](https://drive.google.com/drive/folders/1ELoqx7J3GrEFMX5_rRynMjW9-Poxz3Uu?usp=sharing)
+- [Baidu Disk](https://pan.baidu.com/s/1_vcO4c5DM5LDuOqLwLrWJg?pwd=5byn)
+- [Hugging Face](https://huggingface.co/datasets/circleLZY/JL1-CD)
 # Environments
 Windows  
 cuda 12.4+  
