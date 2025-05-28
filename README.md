@@ -22,8 +22,9 @@ test
 # FIGS
 ![image](/figs/fig1.jpg)
 # Datasets
-SECOND:https://drive.google.com/file/d/1QlAdzrHpfBIOZ6SK78yHF2i1u6tikmBc/view?usp=sharing  
-The JL1-CD dataset is now publicly available. You can download the dataset from:
+You can download the SECOND dataset from:
+- [Google Drive](https://drive.google.com/file/d/1QlAdzrHpfBIOZ6SK78yHF2i1u6tikmBc/view?usp=sharing)
+You can download the JL1-CD dataset from:
 - [Google Drive](https://drive.google.com/drive/folders/1ELoqx7J3GrEFMX5_rRynMjW9-Poxz3Uu?usp=sharing)
 - [Baidu Disk](https://pan.baidu.com/s/1_vcO4c5DM5LDuOqLwLrWJg?pwd=5byn)
 - [Hugging Face](https://huggingface.co/datasets/circleLZY/JL1-CD)
